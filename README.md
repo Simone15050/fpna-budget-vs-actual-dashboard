@@ -1,5 +1,8 @@
 # FP&A Budget vs Actual Financial Dashboard
 
+## Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
 ## Project Overview
 This project simulates a 12-month financial performance analysis for a business unit. The model compares budgeted and actual revenue and expenses, calculates monthly and annual variances, and presents key financial metrics through an executive-ready dashboard.
 
